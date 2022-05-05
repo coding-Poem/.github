@@ -8,7 +8,9 @@
 
 <hr>
 
-#### 👨‍👨‍👧‍👦 스터디 구성원
+#### 👨‍👨‍👧‍👦 Team Member
+
+Team Name : [coding-Poem](https://github.com/orgs/coding-Poem/teams/coding-poem)
 
 |이름|Github 주소|역할|
 |--|---|---|
