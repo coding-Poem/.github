@@ -28,3 +28,4 @@
 > **[codingPoem_Project](https://github.com/coding-Poem/codingPoem_Project)**
 
 - 스터디 구성원들의 첫 프로젝트 작업 장소입니다.
+- [프로젝트 작업 과정 보기](https://github.com/orgs/coding-Poem/projects/2)
