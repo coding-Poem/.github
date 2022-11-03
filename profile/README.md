@@ -12,17 +12,13 @@
 
 Team Name : [coding-Poem](https://github.com/orgs/coding-Poem/teams/coding-poem)
 
-|이름|Github 주소|역할|
-|--|---|---|
-|윤요섭|[yunyoseob](https://github.com/yunyoseob)|스터디장|
-|박건원|[SavoryP](https://github.com/SavoryP)|스터디원|
-|강민|[gordenKang](https://github.com/gordenKang)|스터디원|
-|박성훈|[MintLizz](https://github.com/MintLizz)|스터디원|
-|성연제|[Yeonja2](https://github.com/Yeonja2)|스터디원|
-|김별|[Byeol](https://github.com/bbbbkim)|스터디원|
 
 ### 📁 Repository Description
 
 > **[KOSMO-108](https://github.com/coding-Poem/KOSMO-108)**
 
-- 스터디 구성원들이 교육과정에서 배운 내용을 정리하고 공부한 것을 올리는 공간입니다.
+- 한국소프트웨어 인재개발원 108기 교육 당시 스터디 구성원들이 교육과정에서 배운 내용을 정리하고 공부한 것을 올렸던 공간입니다.
+
+> **[Develop_Study](https://github.com/coding-Poem/Develop_Study)**
+
+- 교육 수료 후, 개별적으로 개발 스터디 후, 발표 관련 자료를 올리는 공간입니다.
