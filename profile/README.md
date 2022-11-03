@@ -1,6 +1,4 @@
-# KOSMO-108
-
-### 🙂 KOSMO 108기 스터디 : coding-Poem
+# 🙂 Coding-Poem
 
 <hr>
 
